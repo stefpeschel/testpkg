@@ -1,0 +1,11 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# testpkg
+
+This is the readme file of our super-fancy R package. 
